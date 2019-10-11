@@ -1,10 +1,10 @@
-url: https://y7kim.github.io
+url: http://www.josejoaquinbermudez.com/restaurante
 baseurl: /agency-jekyll-theme/
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+title: Enjarra2 Portafolio
+email: enjarrados@gmail.com
+description: "Creamos experiencias gastronómicas para cualquier evento social o empresarial. Brindando siempre productos de calidad con el mejor costo/beneficio"
 
 
 # Team names, titles and social links
@@ -57,8 +57,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: Carrera 20 #22-64
+  - line: El Retiro Antioquia
 
 # Build settings
 markdown: kramdown
