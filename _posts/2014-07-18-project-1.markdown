@@ -1,9 +1,9 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: Perros calientes
+subtitle: Pan, salchicha, ripio, ensalada y 3 salsas.
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2019-11-01
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
