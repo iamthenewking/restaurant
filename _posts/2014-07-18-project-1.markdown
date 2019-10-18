@@ -1,15 +1,15 @@
 ---
-title: Perros calientes
-subtitle: Pan, salchicha, ripio, ensalada y 3 salsas.
+title: Perros calientes Enjarra2
+subtitle: Evento en Brisas del Eden.
 layout: default
 modal-id: 1
 date: 2019-11-01
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+project-date: Octubre 2019
+client: Evento Empresarial
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+description: En esta ocasión los colaboradores de esta empresa se deleitaron con la variedad de topings que podian agregar a sus perros calientes.
 
 ---
