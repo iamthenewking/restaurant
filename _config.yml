@@ -2,7 +2,7 @@ url: http://www.josejoaquinbermudez.com/restaurante
 baseurl: /restaurant
 
 # Site settings
-title: Enjarra2 Portafolio
+title: Unión Alimienticia
 email: enjarrados@gmail.com
 description: "Creamos experiencias gastronómicas para cualquier evento social o empresarial. Brindando siempre productos de calidad con el mejor costo/beneficio"
 
@@ -44,20 +44,20 @@ people:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: instagram
+    url: http://instagram.com/dulceysalado
+    icon: fa-instagram
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/dulceysalado
+    icon: fa-twitter-square
   - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
-  - title: github
-    url: http://github.com/jekyll
+    url: http://facebook.com/dulceysalado
+    icon: fa-facebook-square
+
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Carrera 20 #22-64
+  - line: Carrera 21 #22-64
   - line: El Retiro Antioquia
 
 # Build settings
